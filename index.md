@@ -4,9 +4,6 @@ title: OOI-ECS
 subtitle: OOI Early Career Scientist Community of Practice
 use-site-title: true
 ---
- <p align="center">
-  <img src="/img/ocean_sm.jpg">
-</p>
 
 
 {: .box-note}
