@@ -21,12 +21,11 @@ description: OOI Early Career Scientist Community of Practice
 # List of links in the navigation bar
 navbar-links:
   Membership: "members"
-    - How to Join: 
-    - Who we are: 
-    - Members:
-    - Steering Committee:
-  Activities:
-    - 
+    - How to Join: "join"
+    - Who we are: "who:
+    - Members: "members"
+    - Steering Committee: "scomm"
+  Activities: "activities"
   Newsfeed: "news"
   Contact Us: "contact"
 
