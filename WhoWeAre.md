@@ -3,7 +3,7 @@ layout: page
 title: Who are we?
 ---
    
-We are a network of early marine scientists interested in building a community of practice around using open data. You do not need to work in marine systems to join! We welcome new members anytime - see our "How to Join" Page for information on how to sign up.
+We are a network of early career marine scientists interested in building a community of practice around using open data. You do not need to work in marine systems to join! We welcome new members anytime - see our "How to Join" Page for information on how to sign up.
 
 Below are some demographic information about our participants. 
 
