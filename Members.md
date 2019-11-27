@@ -1,4 +1,11 @@
-## Current members
+---
+layout: page
+title: Current members
+---
+
+
+![group_pic](img/201905_group_pic.JPG)
+
 
 (Alphabetical order by last name)
 
@@ -45,6 +52,3 @@ Daniel Haixing Wang
 Justine (Tina) Whitaker
 
 Kianoosh Yousefi
-
-
-![group_pic](img/201905_group_pic.JPG)
