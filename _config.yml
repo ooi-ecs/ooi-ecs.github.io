@@ -20,7 +20,7 @@ description: OOI Early Career Scientist Community of Practice
 
 # List of links in the navigation bar
 navbar-links:
-  Membership: "members"
+  Membership: 
     - How to Join: "join"
     - Who we are: "who:
     - Members: "members"
