@@ -24,7 +24,8 @@ navbar-links:
     - How to join: "howtojoin"
     - Who we are: "WhoWeAre"
     - Members: "Members"
-    - Steering Committee: "steering"
+    - Code of Conduct: "COC"
+    #- Steering Committee: "steering"
   Activities: 
     - 2019 ECS workshop: "2019_dc_ws"
   Newsfeed: "blog"
