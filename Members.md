@@ -41,11 +41,11 @@ Brendan Philip
 
 [Dax Soule](http://sees.qc.cuny.edu/faculty/dax-soule/), CUNY
 
-[Justin Stopa](http://www.soest.hawaii.edu/ore/people/faculty/justin-e-stopa/), SOEST,University of Hawaii
+[Justin Stopa](http://www.soest.hawaii.edu/ore/people/faculty/justin-e-stopa/), SOEST, University of Hawaii
 
 Nicholas Ulm, University of Hawaii
 
-Binbin Wang
+[Binbin Wang](https://engineering.missouri.edu/faculty/binbin-wang/), University of Missouri
 
 Daniel Haixing Wang
 
