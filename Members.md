@@ -15,7 +15,7 @@ Halle Berger
 
 Haley Cabaniss
 
-[Sophie Clayton](mailto:sclayton@odu.edu), Old Dominion University
+[Sophie Clayton](http://www.sophieclayton.com), Old Dominion University
 
 Tripp Collins
 
