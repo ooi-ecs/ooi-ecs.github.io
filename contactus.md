@@ -3,5 +3,5 @@ layout: page
 title: Contact us
 ---
 
-Email: 
+Email: [OceanObsECS@gmail.com](mailto:OceanObsECS@gmail.com)
 
