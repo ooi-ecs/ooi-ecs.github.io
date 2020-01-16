@@ -29,7 +29,7 @@ Fatemeh Izaditame
 
 [Matthew Kupchik](http://www.mjkupchik.com/home.html)
 
-[Wu-Jung Lee](http://apl.uw.edu/people/profile.php?last_name=Lee&first_name=Wu-Jung)
+[Wu-Jung Lee](http://apl.uw.edu/people/profile.php?last_name=Lee&first_name=Wu-Jung), UW-APL
 
 [Robert Levine](https://www.robertmlevine.com/)
 
@@ -39,11 +39,11 @@ Brendan Philip
 
 [Chris Russoniello](http://www.chrisrussoniello.com), West Virginia University Department of Geology and Geography
 
-[Dax Soule](http://sees.qc.cuny.edu/faculty/dax-soule/)
+[Dax Soule](http://sees.qc.cuny.edu/faculty/dax-soule/), CUNY
 
-[Justin Stopa](http://www.soest.hawaii.edu/ore/people/faculty/justin-e-stopa/)
+[Justin Stopa](http://www.soest.hawaii.edu/ore/people/faculty/justin-e-stopa/), SOEST,University of Hawaii
 
-Nicholas Ulm
+Nicholas Ulm, University of Hawaii
 
 Binbin Wang
 
