@@ -11,4 +11,4 @@ We will use the listserv to send updates about activities.
 ### 3) Join the Slack channel. 
 
 We'd also love to showcase your artwork or photos on our website, especially if it aligns with the themes of the network.
-[Email us!](OceanObsECS@gmail.com)
+[Email us!](mailto:OceanObsECS@gmail.com)
