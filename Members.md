@@ -19,7 +19,7 @@ Haley Cabaniss
 
 Tripp Collins
 
-[Kristen Fogaren](http://blogs.oregonstate.edu/benthicbiogeochemistrylab/team/kristen-fogaren/)
+[Kristen Fogaren](http://blogs.oregonstate.edu/benthicbiogeochemistrylab/team/kristen-fogaren/), Oregon State University
 
 Yipeng He
 
