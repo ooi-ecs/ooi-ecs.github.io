@@ -37,7 +37,7 @@ Brendan Philip
 
 Johna Rudzin
 
-Chris Russoniello
+Chris Russoniello (http://www.chrisrussoniello.com), West Virginia University Department of Geology and Geography
 
 Dax Soule
 
