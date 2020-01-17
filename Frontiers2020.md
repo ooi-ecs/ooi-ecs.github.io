@@ -8,10 +8,10 @@ Open data, collaborative working platforms, and interdisciplinary collaboration:
 
 Authors:
 
-### Sophie Clayton sclayton@odu.edu
-### Kristen Fogaren kristen.fogaren@oregonstate.edu***
-### Robert Levine Leviner@uw.edu**
-### Johna Rudzin johna.rudzin.ctr@nrlmry.navy.mil
+# Sophie Clayton sclayton@odu.edu
+# Kristen Fogaren kristen.fogaren@oregonstate.edu***
+# Robert Levine Leviner@uw.edu**
+# Johna Rudzin johna.rudzin.ctr@nrlmry.navy.mil
 ### Chris Russoniello chris.russoniello@wvu.edu*
 ### Dax Soule dax.soule@qc.cuny.edu
 ### Justin Stopa stopa@hawaii.edu
