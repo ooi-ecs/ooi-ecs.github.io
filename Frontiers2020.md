@@ -8,18 +8,16 @@ Open data, collaborative working platforms, and interdisciplinary collaboration:
 
 Authors:
 
-# Sophie Clayton sclayton@odu.edu
-# Kristen Fogaren kristen.fogaren@oregonstate.edu***
-# Robert Levine Leviner@uw.edu**
-# Johna Rudzin johna.rudzin.ctr@nrlmry.navy.mil
-### Chris Russoniello chris.russoniello@wvu.edu*
-### Dax Soule dax.soule@qc.cuny.edu
-### Justin Stopa stopa@hawaii.edu
-### Justine Whitaker justine.whitaker@nicholls.edu
+#### Sophie Clayton sclayton@odu.edu
+#### Kristen Fogaren kristen.fogaren@oregonstate.edu***
+#### Robert Levine Leviner@uw.edu**
+#### Johna Rudzin johna.rudzin.ctr@nrlmry.navy.mil
+#### Chris Russoniello chris.russoniello@wvu.edu*
+#### Dax Soule dax.soule@qc.cuny.edu
+#### Justin Stopa stopa@hawaii.edu
+#### Justine Whitaker justine.whitaker@nicholls.edu
 
-*project lead
-**task 1 lead
-***task 2 lead
+##### *project lead  **task 1 lead  ***task 2 lead
 
 Abstract:
 Ocean observing systems are well-recognized as platforms for long-term monitoring of near-shore and remote locations in the global ocean. The arrays of the NSF-funded Ocean Observatories Initiative (OOI) are among the most advanced of these platforms in the world and have the potential to enhance our capacity for addressing critical issues such as climate change, ecosystem variability and ocean acidification. The co-located sensors on OOI arrays measure key variables for describing forcing and exchanges at the air-sea and ocean-earth boundaries and throughout the water column off the US coasts and in the Irminger Sea. This high-quality data is freely available and accessible to all members of the global oceanographic community—a democratization of data that is particularly useful for early career scientists (ECS), enabling ECS to conduct research independent of traditional funding models. The concurrent collection of broad data types with relevance for oceanographic disciplines including physics, chemistry, biology and geology yields a unique incubator for cutting edge, timely, interdisciplinary research. This potential must be realized by bringing knowledge and methods from diverse disciplines that ECS are particularly qualified for—they possess the computational skills necessary to interpret large data sets and are eager for collaboration. However progress has been hindered by difficulties in accessing and analyzing the data. Here, we demonstrate how ECS are overcoming these challenges and driving new approaches in ocean science through close collaboration and interdisciplinary skill sharing. We showcase two different data interrogation approaches using OOI data to observe and characterize water physical-chemical-biological coupling.
