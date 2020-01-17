@@ -5,7 +5,7 @@ title: Frontiers in Marine Science, 2020
 
 ## Title:
 
-Open data, collaborative working platforms, and interdisciplinary collaboration: building an Early Career Scientist community of practice to leverage Ocean Observatories Initiative data to address critical questions in marine science.
+### Open data, collaborative working platforms, and interdisciplinary collaboration: building an Early Career Scientist community of practice to leverage Ocean Observatories Initiative data to address critical questions in marine science.
 
 ## Authors:
 
