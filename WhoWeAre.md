@@ -9,6 +9,16 @@ Below are some demographic information about our participants.
 
 ### Distribution of participants by career stage:
 
+![Career Level](img/CareerLevel.JPG)
+
+### Distribution of participants by institution:
+
+![Institution](img/Institution.JPG)
+
 ###  Self-characterization of our participants as how their research program or interests are divided between oceanographic disciplines:
 
-### Distribution of our members by region (as of June 2019):
+![Discipline](img/Discipline.JPG)
+
+### Distribution of our members by region (June 2019):
+
+![Geographic Location](img/GeographicLocation.JPG)
