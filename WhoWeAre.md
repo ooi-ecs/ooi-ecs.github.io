@@ -21,4 +21,4 @@ Below are some demographic information about our participants.
 
 ### Distribution of our members by region (June 2019):
 
-![Geographic Location](img/GeographicLocation.JPG)
+![Geographic Location](img/GeographicLocation.jpg)
